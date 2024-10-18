@@ -97,4 +97,3 @@ test_flight = Flight(
 
 #all plots
 #test_flight.all_info()
-print(1)
